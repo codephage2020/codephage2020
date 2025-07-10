@@ -1,20 +1,11 @@
-## Hi there 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi there, I'm Yan TingWang
+🏢 Building a big data platform for an automotive company.
 
-<!--
-**codephage2020/codephage2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Learning Rust to develop database systems and big data components.
 
-Here are some ideas to get you started:
+🦀 Prefer to program in Rust, with occasional use of Java and Python for work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+## :chart_with_upwards_trend: Current Stats
 <div align="center">
   <p>
     <a href="https://github.com/codephage2020">
@@ -26,3 +17,12 @@ Here are some ideas to get you started:
 
   </p>
 </div>
+
+<!--
+## 📫 Let's Connect
+
+[![163mail](https://img.shields.io/badge/-Email-D14836?logoColor=white)](mailto:tingwangyan2020@163.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](https://twitter.com/yourhandle)
+[![Blog](https://img.shields.io/badge/-Personal_Blog-FF5722?logo=blogger)](https://yourblog.com)
+-->
