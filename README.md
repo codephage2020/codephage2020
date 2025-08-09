@@ -12,7 +12,7 @@
       <img width="55.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codephage2020&theme=gotham" />
     </a>
     <a href="https://github.com/codephage2020">
-      <img width="43.5%" src="https://github-readme-stats-liard-one-33.vercel.app/api?username=codephage2020&theme=gotham&show_icons=true&count_private=true&hide=stars" />
+      <img width="43.5%" src="https://github-profile-summary-cards.vercel.app/api?username=codephage2020&theme=gotham&show_icons=true&count_private=true&hide=stars" />
     </a>
 
   </p>
